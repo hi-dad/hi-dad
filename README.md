@@ -36,7 +36,7 @@
 
 # 📌 Window Pane Relief
 
-<img src="images/window-pin.png" alt="Window Pane Relief: a pinned browser window stays on top while you keep typing in the app behind it; Control-Option-P pins the window" width="720">
+<img src="images/window-pane-relief.gif" alt="Window Pane Relief: a pinned browser window stays on top while text is typed into the chat box in the app behind it; Control-Option-P pins the window" width="720">
 
 ## 🌐 Browser
 
