@@ -36,7 +36,7 @@
 
 ## 🎯 [Click Rate](https://github.com/dsryan8197/click-rate)
 
-<img src="images/click-rate-before-after.png" alt="Click Rate before and after: three YouTube clickbait thumbnails replaced by real frames from each video" width="720">
+<img src="images/click-rate.gif" alt="Click Rate: a YouTube clickbait thumbnail becomes a real frame from the video, shown for three videos in turn" width="720">
 
 ## 🌐 Browser
 
