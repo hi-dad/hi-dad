@@ -12,6 +12,10 @@
 | **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
 | **[Window Pin](https://github.com/dsryan8197/window-pin)** | Pin any window on top of everything and keep working in both. |
 
+### 📖 Reader Mode
+
+<img src="images/reader-mode-slider.gif" alt="Before and after: a slider wipes across a page, showing Reader Mode's softer, warmer screen" width="720">
+
 ### 📸 Screenshot Dock
 
 <img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
