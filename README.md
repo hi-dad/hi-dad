@@ -1,6 +1,4 @@
-### Hi, I'm Daniel 👋
-
-Im making things
+# Hi, I'm Daniel 👋 Im making things
 
 <p>
   <img src="https://raw.githubusercontent.com/dsryan8197/reader-mode/main/docs/images/0-panel.png" alt="Reader Mode panel" height="260">
