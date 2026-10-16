@@ -18,9 +18,7 @@
 
 ### ✏️ QuickNote
 
-<img src="images/quicknote-demo.gif" alt="Type a note or speak it: the QuickNote box pops up over any app, both versions save 'get eggs at the store'" width="720">
-
-<img src="images/quicknote-result.png" alt="Hotkey it from anywhere: hold Option to type or Control to talk, and the note lands as a bullet in Apple Notes" width="720">
+<img src="images/quicknote-ad.gif" alt="QuickNote: type a note with Option, or speak it with Control, from any app, and it's saved as a bullet in Apple Notes" width="720">
 
 ### 📸 Screenshot Dock
 
