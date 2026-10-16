@@ -34,6 +34,10 @@
 
 <img src="images/window-pin.png" alt="Window Pin: a pinned browser window stays on top while you keep typing in the app behind it; Control-Option-P pins the window" width="720">
 
+## 🎯 [Click Rate](https://github.com/dsryan8197/click-rate)
+
+<img src="images/click-rate-before-after.png" alt="Click Rate before and after: three YouTube clickbait thumbnails replaced by real frames from each video" width="720">
+
 ## 🌐 Browser
 
 | | |
@@ -41,10 +45,6 @@
 | **[Scribbly](https://github.com/dsryan8197/scribbly)** | Highlight and annotate any web page; copy your notes out as Markdown. |
 | **[Click Rate](https://github.com/dsryan8197/click-rate)** | Swaps YouTube's clickbait thumbnails for real frames from the video. |
 | **[not-loom](https://github.com/dsryan8197/not-loom)** | Loom-style screen + camera-bubble recorder that runs locally. No account, no uploads. |
-
-## 🎯 [Click Rate](https://github.com/dsryan8197/click-rate)
-
-<img src="images/click-rate-before-after.png" alt="Click Rate before and after: three YouTube clickbait thumbnails replaced by real frames from each video" width="720">
 
 ## 🎮 Games
 
