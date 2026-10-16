@@ -1,12 +1,8 @@
 # Hi, I'm Daniel 👋 Im making things
 
-<p>
-  <img src="https://raw.githubusercontent.com/dsryan8197/reader-mode/main/docs/images/0-panel.png" alt="Reader Mode panel" height="260">
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/dsryan8197/clip-list/main/docs/images/dropdown.png" alt="Clip List dropdown" height="260">
-</p>
-
 ## 🖥️ Mac apps
+
+<img src="images/menu-bar-icons.png" alt="Menu bar icons for QuickNote, Reader Mode, Clip List and Window Pin" width="420">
 
 | | |
 |---|---|
@@ -15,6 +11,12 @@
 | **[Clip List](https://github.com/dsryan8197/clip-list)** | ⌘C several things while you read, then paste them all with one ⌘V. |
 | **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
 | **[Window Pin](https://github.com/dsryan8197/window-pin)** | Pin any window on top of everything and keep working in both. |
+
+### 📸 Screenshot Dock
+
+<img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
+
+<img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: batch several screenshots, press 1–5 to file them, and each is renamed from its contents" width="720">
 
 ## 🌐 Browser
 
