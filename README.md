@@ -30,6 +30,10 @@
 
 <img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: take several in a row, press 1–5 to file locally or save to iCloud, renamed via Apple Intelligence" width="720">
 
+## 📌 [Window Pin](https://github.com/dsryan8197/window-pin)
+
+<img src="images/window-pin.png" alt="Window Pin: a pinned browser window stays on top while you keep typing in the app behind it; Control-Option-P pins the window" width="720">
+
 ## 🌐 Browser
 
 | | |
