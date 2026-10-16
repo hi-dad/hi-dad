@@ -10,12 +10,11 @@
 
 | | |
 |---|---|
-| **[Reader Mode](https://github.com/dsryan8197/reader-mode)** | Softer, warmer, paper-like screen for long reading sessions. [⬇️ Download](https://github.com/dsryan8197/reader-mode/releases/latest/download/ReaderMode.dmg) |
+| **[Reader Mode](https://github.com/dsryan8197/reader-mode)** | Paper-like display across your entire MacBook. [⬇️ Download](https://github.com/dsryan8197/reader-mode/releases/latest/download/ReaderMode.dmg) |
 | **[QuickNote](https://github.com/dsryan8197/quick-paste)** | Hold a key, type or talk, and it lands as a bullet in Apple Notes. [⬇️ Download](https://github.com/dsryan8197/quick-paste/releases/latest/download/QuickNote.dmg) |
 | **[Clip List](https://github.com/dsryan8197/clip-list)** | ⌘C several things while you read, then paste them all with one ⌘V. |
-| **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Screenshots off your Desktop: a quick-choice bar files each one, and on-device AI gives it a readable name. |
+| **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
 | **[Window Pin](https://github.com/dsryan8197/window-pin)** | Pin any window on top of everything and keep working in both. |
-| **[Shy Sharing](https://github.com/dsryan8197/shy-sharing)** | Outlines the real window when you pick one to share in Teams, so you share the right one. |
 
 ## 🌐 Browser
 
