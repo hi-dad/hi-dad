@@ -6,11 +6,11 @@
 
 | | |
 |---|---|
-| **[Paperlight](https://github.com/dsryan8197/reader-mode)** | Paper-like display across your entire MacBook. [⬇️ Download](https://github.com/dsryan8197/reader-mode/releases/latest/download/ReaderMode.dmg) |
-| **[Shelfie](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
-| **[Jot](https://github.com/dsryan8197/quick-paste)** | Hold a key, type or talk, and it lands as a bullet in Apple Notes. [⬇️ Download](https://github.com/dsryan8197/quick-paste/releases/latest/download/Jot.dmg) |
-| **[Copy Collector](https://github.com/dsryan8197/clip-list)** | ⌘C several things while you read, then paste them all with one ⌘V. |
-| **[Window Pane Relief](https://github.com/dsryan8197/window-pin)** | Pin any window on top of everything and keep working in both. |
+| **[Paperlight](https://github.com/dsryan8197/paperlight)** | Paper-like display across your entire MacBook. [⬇️ Download](https://github.com/dsryan8197/paperlight/releases/latest/download/Paperlight.dmg) |
+| **[Shelfie](https://github.com/dsryan8197/shelfie)** | Persistent window to drag & drop your recent screenshots. |
+| **[Jot](https://github.com/dsryan8197/jot)** | Hold a key, type or talk, and it lands as a bullet in Apple Notes. [⬇️ Download](https://github.com/dsryan8197/jot/releases/latest/download/Jot.dmg) |
+| **[Copy Collector](https://github.com/dsryan8197/copy-collector)** | ⌘C several things while you read, then paste them all with one ⌘V. |
+| **[Window Pane Relief](https://github.com/dsryan8197/window-pane-relief)** | Pin any window on top of everything and keep working in both. |
 
 # 📖 Paperlight
 
@@ -43,7 +43,7 @@
 | | |
 |---|---|
 | **[Scribbly](https://github.com/dsryan8197/scribbly)** | Highlight and annotate any web page; copy your notes out as Markdown. |
-| **[Bait and Switch](https://github.com/dsryan8197/click-rate)** | Swaps YouTube's clickbait thumbnails for real frames from the video. |
+| **[Bait and Switch](https://github.com/dsryan8197/bait-and-switch)** | Swaps YouTube's clickbait thumbnails for real frames from the video. |
 | **[not-loom](https://github.com/dsryan8197/not-loom)** | Loom-style screen + camera-bubble recorder that runs locally. No account, no uploads. |
 
 ## 🎮 Games
