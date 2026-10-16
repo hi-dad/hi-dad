@@ -20,7 +20,7 @@
 
 <img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
 
-<img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: batch several screenshots, press 1–5 to file them, and each is renamed from its contents" width="720">
+<img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: take several in a row, press 1–5 to file locally or save to iCloud, renamed via Apple Intelligence" width="720">
 
 ## 🌐 Browser
 
