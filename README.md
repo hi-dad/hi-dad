@@ -20,6 +20,10 @@
 
 <img src="images/quicknote-ad.gif" alt="QuickNote: type a note with Option, or speak it with Control, from any app, and it's saved as a bullet in Apple Notes" width="720">
 
+### 📋 Clip List
+
+<img src="images/cliplist-ad.gif" alt="Clip List: copy three passages in a row, the list piles up, one Command-V pastes them all, and the list clears after the paste" width="720">
+
 ### 📸 Screenshot Dock
 
 <img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
