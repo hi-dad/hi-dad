@@ -16,6 +16,17 @@
 
 <img src="images/reader-mode-slider.gif" alt="Before and after: a slider wipes across a page, showing Reader Mode's softer, warmer screen" width="720">
 
+### ✏️ QuickNote
+
+<table>
+  <tr>
+    <td><b>Type it</b><br><img src="images/quicknote-type.gif" alt="Holding Option opens the QuickNote box; typing 'get eggs at the store' and pressing Return" width="360"></td>
+    <td><b>Or say it</b><br><img src="images/quicknote-voice.gif" alt="Holding Control opens QuickNote listening; speaking 'Get eggs at the store'" width="360"></td>
+  </tr>
+</table>
+
+<img src="images/quicknote-result.png" alt="Hotkey it from anywhere: hold Option to type or Control to talk, and the note lands as a bullet in Apple Notes" width="720">
+
 ### 📸 Screenshot Dock
 
 <img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
