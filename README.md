@@ -7,14 +7,24 @@
 | | |
 |---|---|
 | **[Reader Mode](https://github.com/dsryan8197/reader-mode)** | Paper-like display across your entire MacBook. [⬇️ Download](https://github.com/dsryan8197/reader-mode/releases/latest/download/ReaderMode.dmg) |
+| **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
 | **[QuickNote](https://github.com/dsryan8197/quick-paste)** | Hold a key, type or talk, and it lands as a bullet in Apple Notes. [⬇️ Download](https://github.com/dsryan8197/quick-paste/releases/latest/download/QuickNote.dmg) |
 | **[Clip List](https://github.com/dsryan8197/clip-list)** | ⌘C several things while you read, then paste them all with one ⌘V. |
-| **[Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)** | Persistent window to drag & drop your recent screenshots. |
 | **[Window Pin](https://github.com/dsryan8197/window-pin)** | Pin any window on top of everything and keep working in both. |
 
 ## 📖 [Reader Mode](https://github.com/dsryan8197/reader-mode)
 
 <img src="images/reader-mode-slider.gif" alt="Before and after: a slider wipes across a page, showing Reader Mode's softer, warmer screen" width="720">
+
+## 📸 [Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)
+
+<img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
+
+<img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: take several in a row, press 1–5 to file locally or save to iCloud, renamed via Apple Intelligence" width="720">
+
+## 🎯 [Click Rate](https://github.com/dsryan8197/click-rate)
+
+<img src="images/click-rate.gif" alt="Click Rate: a YouTube clickbait thumbnail becomes a real frame from the video, shown for three videos in turn" width="720">
 
 ## ✏️ [QuickNote](https://github.com/dsryan8197/quick-paste)
 
@@ -24,19 +34,9 @@
 
 <img src="images/cliplist-ad.gif" alt="Clip List: copy three passages in a row, the list piles up, one Command-V pastes them all, and the list clears after the paste" width="720">
 
-## 📸 [Screenshot Dock](https://github.com/dsryan8197/screenshot-dock)
-
-<img src="images/screenshot-dock-demo.gif" alt="Opening the Screenshot Dock shelf from the Dock and dragging screenshots into an app" width="720">
-
-<img src="images/screenshot-dock-bar.png" alt="The quick-choice bar: take several in a row, press 1–5 to file locally or save to iCloud, renamed via Apple Intelligence" width="720">
-
 ## 📌 [Window Pin](https://github.com/dsryan8197/window-pin)
 
 <img src="images/window-pin.png" alt="Window Pin: a pinned browser window stays on top while you keep typing in the app behind it; Control-Option-P pins the window" width="720">
-
-## 🎯 [Click Rate](https://github.com/dsryan8197/click-rate)
-
-<img src="images/click-rate.gif" alt="Click Rate: a YouTube clickbait thumbnail becomes a real frame from the video, shown for three videos in turn" width="720">
 
 ## 🌐 Browser
 
