@@ -11,6 +11,7 @@
 | **[Jot](https://github.com/dsryan8197/jot)** | Hold a key, type or talk, and it lands as a bullet in Apple Notes. [⬇️ Download](https://github.com/dsryan8197/jot/releases/latest/download/Jot.dmg) |
 | **[Copy Collector](https://github.com/dsryan8197/copy-collector)** | ⌘C several things while you read, then paste them all with one ⌘V. |
 | **[Window Pane Relief](https://github.com/dsryan8197/window-pane-relief)** | Pin any window on top of everything and keep working in both. |
+| **[Desktop Cat](https://github.com/dsryan8197/desktop-cat)** | A pixel-art cat that lives on your desktop: walks, naps, plays with yarn and perches on your windows. |
 
 # 📖 Paperlight
 
@@ -37,6 +38,10 @@
 # 📌 Window Pane Relief
 
 <img src="images/window-pane-relief.gif" alt="Window Pane Relief: a pinned browser window stays on top while text is typed into the chat box in the app behind it; Control-Option-P pins the window" width="720">
+
+# 🐈 Desktop Cat
+
+<img src="images/desktop-cat.gif" alt="Desktop Cat: a pixel-art cat is carried by the scruff and dropped onto the top of a window, runs along it, bats and chases a yarn ball, then curls up to sleep and wakes again" width="720">
 
 ## 🌐 Browser
 
