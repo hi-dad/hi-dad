@@ -4,14 +4,14 @@
 
 <img src="images/menu-bar-icons.png" alt="Menu bar icons for Jot, Paperlight, Copy Collector and Window Pane Relief" width="420">
 
-| | App | |
-|---|---|---|
-| <img src="images/icons/paperlight.png" alt="" width="44"> | **[Paperlight](https://github.com/hi-dad/paperlight)**<br>Paper-like display across your entire MacBook. | [⬇️ Download](https://github.com/hi-dad/paperlight/releases/latest/download/Paperlight.dmg)<br><sub>macOS 13+</sub> |
-| <img src="images/icons/shelfie.png" alt="" width="44"> | **[Shelfie](https://github.com/hi-dad/shelfie)**<br>Persistent window to drag & drop your recent screenshots. | [⬇️ Download](https://github.com/hi-dad/shelfie/releases/latest/download/Shelfie.dmg)<br><sub>macOS 26+</sub> |
-| <img src="images/icons/jot.png" alt="" width="44"> | **[Jot](https://github.com/hi-dad/jot)**<br>Hold a key, type or talk, and it lands as a bullet in Apple Notes. | [⬇️ Download](https://github.com/hi-dad/jot/releases/latest/download/Jot.dmg)<br><sub>macOS 13+</sub> |
-| <img src="images/icons/copy-collector.png" alt="" width="44"> | **[Copy Collector](https://github.com/hi-dad/copy-collector)**<br>⌘C several things while you read, then paste them all with one ⌘V. | [⬇️ Download](https://github.com/hi-dad/copy-collector/releases/latest/download/CopyCollector.dmg)<br><sub>macOS 13+</sub> |
-| <img src="images/icons/window-pane-relief.png" alt="" width="44"> | **[Window Pane Relief](https://github.com/hi-dad/window-pane-relief)**<br>Pin any window on top of everything and keep working in both. | [⬇️ Download](https://github.com/hi-dad/window-pane-relief/releases/latest/download/WindowPaneRelief.dmg)<br><sub>macOS 13+</sub> |
-| <img src="images/icons/desktop-cat.png" alt="" width="44"> | **[Desktop Cat](https://github.com/hi-dad/desktop-cat)**<br>A pixel-art cat that lives on your desktop: walks, naps, plays with yarn and perches on your windows. | [⬇️ Download](https://github.com/hi-dad/desktop-cat/releases/latest/download/DesktopCat.dmg)<br><sub>macOS 14+</sub> |
+| App | |
+|---|---|
+| <img src="images/icons/paperlight.png" alt="" width="48" height="48" align="left"> **[Paperlight](https://github.com/hi-dad/paperlight)**<br>Paper-like display across your entire MacBook. | [⬇️&nbsp;Download](https://github.com/hi-dad/paperlight/releases/latest/download/Paperlight.dmg)<br><sub>macOS 13+</sub> |
+| <img src="images/icons/shelfie.png" alt="" width="48" height="48" align="left"> **[Shelfie](https://github.com/hi-dad/shelfie)**<br>Persistent window to drag & drop your recent screenshots. | [⬇️&nbsp;Download](https://github.com/hi-dad/shelfie/releases/latest/download/Shelfie.dmg)<br><sub>macOS 26+</sub> |
+| <img src="images/icons/jot.png" alt="" width="48" height="48" align="left"> **[Jot](https://github.com/hi-dad/jot)**<br>Hold a key, type or talk, and it lands as a bullet in Apple Notes. | [⬇️&nbsp;Download](https://github.com/hi-dad/jot/releases/latest/download/Jot.dmg)<br><sub>macOS 13+</sub> |
+| <img src="images/icons/copy-collector.png" alt="" width="48" height="48" align="left"> **[Copy Collector](https://github.com/hi-dad/copy-collector)**<br>⌘C several things while you read, then paste them all with one ⌘V. | [⬇️&nbsp;Download](https://github.com/hi-dad/copy-collector/releases/latest/download/CopyCollector.dmg)<br><sub>macOS 13+</sub> |
+| <img src="images/icons/window-pane-relief.png" alt="" width="48" height="48" align="left"> **[Window Pane Relief](https://github.com/hi-dad/window-pane-relief)**<br>Pin any window on top of everything and keep working in both. | [⬇️&nbsp;Download](https://github.com/hi-dad/window-pane-relief/releases/latest/download/WindowPaneRelief.dmg)<br><sub>macOS 13+</sub> |
+| <img src="images/icons/desktop-cat.png" alt="" width="48" height="48" align="left"> **[Desktop Cat](https://github.com/hi-dad/desktop-cat)**<br>A pixel-art cat that lives on your desktop: walks, naps, plays with yarn and perches on your windows. | [⬇️&nbsp;Download](https://github.com/hi-dad/desktop-cat/releases/latest/download/DesktopCat.dmg)<br><sub>macOS 14+</sub> |
 
 Free, for Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
 
