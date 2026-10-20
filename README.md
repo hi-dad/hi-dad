@@ -2,8 +2,6 @@
 
 ## 🖥️ Mac apps
 
-<img src="images/menu-bar-icons.png" alt="Menu bar icons for Jot, Paperlight, Copy Collector and Window Pane Relief" width="420">
-
 | App | |
 |---|---|
 | <img src="images/icons/leftovers.png" alt="" width="48" height="48" align="left"> **[Leftovers](https://github.com/hi-dad/leftovers)**<br>Spots things Claude left running and draining your battery, and stops them in one click. | [⬇️&nbsp;Download](https://github.com/hi-dad/leftovers/releases/latest/download/Leftovers.dmg)<br><sub>macOS 14+</sub> |
