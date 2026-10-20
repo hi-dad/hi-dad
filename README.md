@@ -12,6 +12,7 @@
 | <img src="images/icons/copy-collector.png" alt="" width="48" height="48" align="left"> **[Copy Collector](https://github.com/hi-dad/copy-collector)**<br>⌘C several things while you read, then paste them all with one ⌘V. | [⬇️&nbsp;Download](https://github.com/hi-dad/copy-collector/releases/latest/download/CopyCollector.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/window-pane-relief.png" alt="" width="48" height="48" align="left"> **[Window Pane Relief](https://github.com/hi-dad/window-pane-relief)**<br>Pin any window on top of everything and keep working in both. | [⬇️&nbsp;Download](https://github.com/hi-dad/window-pane-relief/releases/latest/download/WindowPaneRelief.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/desktop-cat.png" alt="" width="48" height="48" align="left"> **[Desktop Cat](https://github.com/hi-dad/desktop-cat)**<br>A pixel-art cat that lives on your desktop: walks, naps, plays with yarn and perches on your windows. | [⬇️&nbsp;Download](https://github.com/hi-dad/desktop-cat/releases/latest/download/DesktopCat.dmg)<br><sub>macOS 14+</sub> |
+| <img src="images/icons/leftovers.png" alt="" width="48" height="48" align="left"> **[Leftovers](https://github.com/hi-dad/leftovers)**<br>Spots things Claude left running and draining your battery, and stops them in one click. | [⬇️&nbsp;Download](https://github.com/hi-dad/leftovers/releases/latest/download/Leftovers.dmg)<br><sub>macOS 14+</sub> |
 
 Free, for Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
 
@@ -45,17 +46,13 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 <img src="images/desktop-cat-demo.gif" alt="Desktop Cat: a pixel-art cat is carried by the scruff and dropped onto the top of a window, runs along it, bats and chases a yarn ball, then curls up to sleep and wakes again" width="720">
 
+
+# 🥡 Leftovers
+
+<img src="images/leftovers-menu.png" alt="The Leftovers menu: a list of things Claude left running, each with a Stop button" width="420">
+
 ## 🌐 Browser
 
 | | |
 |---|---|
-| **[Scribbly](https://github.com/hi-dad/scribbly)** | Highlight and annotate any web page; copy your notes out as Markdown. |
 | **[Bait and Switch](https://github.com/hi-dad/bait-and-switch)** | Swaps YouTube's clickbait thumbnails for real frames from the video. |
-| **[not-loom](https://github.com/hi-dad/not-loom)** | Loom-style screen + camera-bubble recorder that runs locally. No account, no uploads. |
-
-## 🎮 Games
-
-| | |
-|---|---|
-| **[Puzzle Table](https://github.com/hi-dad/puzzles)** | Turn your own photos into 24–1000 piece jigsaws, on iPhone or Mac. |
-| **[ZOM-ZOM](https://github.com/hi-dad/zom-zom)** | Blocky, foggy small-town zombie wave shooter in the browser (Three.js). |
