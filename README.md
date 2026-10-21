@@ -44,7 +44,7 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 # 🐈 Desktop Cat
 
-<img src="images/desktop-cat-demo.gif" alt="Desktop Cat: a pixel-art cat is carried by the scruff and dropped onto the top of a window, runs along it, bats and chases a yarn ball, then curls up to sleep and wakes again" width="720">
+<img src="images/desktop-cat-showcase.gif" alt="Desktop Cat: a pixel-art cat peeks over a window and hops on top, rides along as the window moves and is shaken off, chases the cursor, rolls over when tickled, is picked up by the scruff, bats a yarn ball, sits watching a movie, then lies down to sleep" width="720">
 
 ## 🌐 Browser
 
