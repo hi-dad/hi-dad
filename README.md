@@ -34,6 +34,10 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 <img src="images/click-rate.gif" alt="Bait and Switch: a YouTube clickbait thumbnail becomes a real frame from the video, shown for three videos in turn" width="720">
 
+# 📌 Window Pane Relief
+
+<img src="images/window-pane-relief.gif" alt="Window Pane Relief ad: clicking into notes buries a video; press Control-Option-P to pin it, and it stays on top while you type and open other apps; click it to pause and scrub, then click back and keep typing; pin any window from the menu bar; press Control-Option-P again to unpin" width="720">
+
 # ✏️ Jot
 
 <img src="images/quicknote-ad.gif" alt="Jot: type a note with Option, or speak it with Control, from any app, and it's saved as a bullet in Apple Notes" width="720">
@@ -41,10 +45,6 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 # 📋 Copy Collector
 
 <img src="images/cliplist-ad.gif" alt="Copy Collector: copy three passages in a row, the list piles up, one Command-V pastes them all, and the list clears after the paste" width="720">
-
-# 📌 Window Pane Relief
-
-<img src="images/window-pane-relief.gif" alt="Window Pane Relief: a pinned browser window stays on top while text is typed into the chat box in the app behind it; Control-Option-P pins the window" width="720">
 
 ## 🌐 Browser
 
