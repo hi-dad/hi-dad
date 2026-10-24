@@ -44,7 +44,7 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 # 📋 Copy Collector
 
-<img src="images/cliplist-ad.gif" alt="Copy Collector: copy three passages in a row, the list piles up, one Command-V pastes them all, and the list clears after the paste" width="720">
+<img src="images/cliplist-ad.gif" alt="Copy Collector ad: copy three sentences from a web page and they stack up in a list; one Command-V pastes them all into Notes; dictation types as normal; Command-C with nothing selected clears the list; a full list clears itself after 5 minutes" width="720">
 
 ## 🌐 Browser
 
