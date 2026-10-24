@@ -16,7 +16,7 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 # 🥡 Leftovers
 
-<img src="images/leftovers.gif" alt="Leftovers: the menu drops down from the takeout-box icon showing three things Claude left running, then three windows show it flagging something stuck, nudging about something idle, and a list of everything it watches" width="720">
+<img src="images/leftovers.gif" alt="Leftovers: Claude builds and tests an app, then the chat is closed but a test website, an iPhone simulator, a looping script and a stuck video export keep running and drain the battery; Leftovers flags them and stops each one in a click, then lists everything it watches" width="720">
 
 # 📖 Paperlight
 
