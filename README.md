@@ -12,6 +12,7 @@
 | <img src="images/icons/copy-collector.png" alt="" width="48" height="48" align="left"> **[Copy Collector](https://github.com/hi-dad/copy-collector)**<br>⌘C several things while you read, then paste them all with one ⌘V. | [⬇️&nbsp;Download](https://github.com/hi-dad/copy-collector/releases/latest/download/CopyCollector.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/window-pane-relief.png" alt="" width="48" height="48" align="left"> **[Window Pane Relief](https://github.com/hi-dad/window-pane-relief)**<br>Pin any window on top of everything and keep working in both. | [⬇️&nbsp;Download](https://github.com/hi-dad/window-pane-relief/releases/latest/download/WindowPaneRelief.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/bait-and-switch.png" alt="" width="48" height="48" align="left"> **[Bait and Switch](https://github.com/hi-dad/bait-and-switch)**<br>Swaps YouTube's clickbait thumbnails for real frames from the video. | [⬇️&nbsp;Install](https://github.com/hi-dad/bait-and-switch#install)<br><sub>Chrome</sub> |
+| <img src="images/icons/poozles.png" alt="" width="48" height="48" align="left"> **[Poozles](https://github.com/hi-dad/poozles)**<br>Turn any photo into a jigsaw and solve it with friends. | [▶️&nbsp;Play](https://poozles.app)<br><sub>Web</sub> |
 
 Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
 
@@ -46,3 +47,7 @@ Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always 
 # 📋 Copy Collector
 
 <img src="images/cliplist-ad.gif" alt="Copy Collector ad: copy three sentences from a web page and each shows an Added bubble while the list on the right counts up; one Command-V pastes them all into Notes and the list empties; it won't interfere with dictation; Command-C with nothing selected clears the list, or it clears itself after 5 minutes" width="720">
+
+# 🧩 Poozles
+
+<img src="images/poozles-gameplay.webp" alt="Poozles on iPhone: a library of photo puzzles, another player named Vivian placing a piece on a shared puzzle, and a dog photo puzzle in progress" width="720">
