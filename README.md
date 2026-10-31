@@ -32,7 +32,7 @@ Free, for Apple Silicon and Intel Macs. Each download is always the newest versi
 
 # 🎯 Bait and Switch
 
-<img src="images/click-rate.gif" alt="Bait and Switch: a YouTube clickbait thumbnail becomes a real frame from the video, shown for three videos in turn" width="720">
+<img src="images/bait-and-switch.png" alt="Bait and Switch before and after: two clickbait thumbnails about Claude become real frames from the same videos" width="720">
 
 # 📌 Window Pane Relief
 
