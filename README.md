@@ -13,6 +13,7 @@
 | <img src="images/icons/window-pane-relief.png" alt="" width="48" height="48" align="left"> **[Window Pane Relief](https://github.com/hi-dad/window-pane-relief)**<br>Pin any window on top of everything and keep working in both. | [⬇️&nbsp;Download](https://github.com/hi-dad/window-pane-relief/releases/latest/download/WindowPaneRelief.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/bait-and-switch.png" alt="" width="48" height="48" align="left"> **[Bait and Switch](https://github.com/hi-dad/bait-and-switch)**<br>Swaps YouTube's clickbait thumbnails for real frames from the video. | [⬇️&nbsp;Install](https://github.com/hi-dad/bait-and-switch#install)<br><sub>Chrome</sub> |
 | <img src="images/icons/poozles.png" alt="" width="48" height="48" align="left"> **[Poozles](https://github.com/hi-dad/poozles)**<br>Turn any photo into a jigsaw and solve it with friends. | [▶️&nbsp;Play](https://poozles.app)<br><sub>Web</sub> |
+| <img src="images/icons/snail-house.png" alt="" width="48" height="48" align="left"> **[Snail House](https://github.com/hi-dad/snail-house)**<br>A slow-burn survival game about staying one step ahead of a very persistent snail. | [📱&nbsp;Download](https://apps.apple.com/us/app/snail-house/id6826937107)<br><sub>iOS</sub> |
 
 Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
 
@@ -51,3 +52,7 @@ Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always 
 # 🧩 Poozles
 
 <img src="images/poozles-gameplay.webp" alt="Poozles on iPhone: a library of photo puzzles, another player named Vivian placing a piece on a shared puzzle, and a dog photo puzzle in progress" width="720">
+
+# 🐌 Snail House
+
+<a href="https://apps.apple.com/us/app/snail-house/id6826937107"><img src="images/snail-house-gameplay.png" alt="Snail House on iPhone: the chick escaping the snail, Bunny character and color settings, and Ghostie moving through the house" width="720"></a>
