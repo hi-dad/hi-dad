@@ -4,6 +4,7 @@
 
 | App | |
 |---|---|
+| <img src="images/icons/keyper.png" alt="" width="48" height="48" align="left"> **[Keyper](https://github.com/hi-dad/keyper)**<br>Every hotkey you use, one click away in your menu bar, grouped by app. | [⬇️&nbsp;Download](https://github.com/hi-dad/keyper/releases/latest/download/Keyper.dmg)<br><sub>macOS 14+</sub> |
 | <img src="images/icons/leftovers.png" alt="" width="48" height="48" align="left"> **[Leftovers](https://github.com/hi-dad/leftovers)**<br>Spots things Claude left running and draining your battery, and stops them in one click. | [⬇️&nbsp;Download](https://github.com/hi-dad/leftovers/releases/latest/download/Leftovers.dmg)<br><sub>macOS 14+</sub> |
 | <img src="images/icons/paperlight.png" alt="" width="48" height="48" align="left"> **[Paperlight](https://github.com/hi-dad/paperlight)**<br>Paper-like display across your entire MacBook. | [⬇️&nbsp;Download](https://github.com/hi-dad/paperlight/releases/latest/download/Paperlight.dmg)<br><sub>macOS 13+</sub> |
 | <img src="images/icons/shelfie.png" alt="" width="48" height="48" align="left"> **[Shelfie](https://github.com/hi-dad/shelfie)**<br>Persistent window to drag & drop your recent screenshots. | [⬇️&nbsp;Download](https://github.com/hi-dad/shelfie/releases/latest/download/Shelfie.dmg)<br><sub>macOS 26+</sub> |
@@ -16,6 +17,10 @@
 | <img src="images/icons/snail-house.png" alt="" width="48" height="48" align="left"> **[Snail House](https://github.com/hi-dad/snail-house)**<br>A slow-burn survival game about staying one step ahead of a very persistent snail. | [📱&nbsp;Download](https://apps.apple.com/us/app/snail-house/id6826937107)<br><sub>iOS</sub> |
 
 Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
+
+# ⌨️ Keyper
+
+<img src="images/keyper-hero.png" alt="Keyper: every hotkey you use, one click away in your menu bar. Grouped by app, add your own in seconds, show keys as ⌘, Command or Cmd. The panel hangs under a keycap icon in the menu bar." width="720">
 
 # 🥡 Leftovers
 
