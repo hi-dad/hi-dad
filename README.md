@@ -16,7 +16,7 @@
 | <img src="images/icons/poozles.png" alt="" width="48" height="48" align="left"> **[Poozles](https://github.com/hi-dad/poozles)**<br>Turn any photo into a jigsaw and solve it with friends. | [▶️&nbsp;Play](https://poozles.app)<br><sub>Web</sub> |
 | <img src="images/icons/snail-house.png" alt="" width="48" height="48" align="left"> **[Snail House](https://github.com/hi-dad/snail-house)**<br>A slow-burn survival game about staying one step ahead of a very persistent snail. | [📱&nbsp;Download](https://apps.apple.com/us/app/snail-house/id6826937107)<br><sub>iOS</sub> |
 
-Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always the newest version. The first time you open one, macOS says it can't verify the app: go to **System Settings → Privacy & Security** and click **Open Anyway** (once per app). Each app's page has step-by-step install help.
+Free. The Mac apps run on Apple Silicon and Intel Macs. Each download is always the newest version. They're signed and checked by Apple, so the first time you open one, just click **Open** when macOS asks if you're sure. Each app's page has step-by-step install help.
 
 # ⌨️ Keyper
 
